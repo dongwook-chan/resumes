@@ -101,10 +101,10 @@ DB 실시간 복제 솔루션 [LOMIO](https://elseif.kakao.com/2020/session/99) 
 ## 강연/발표
 ### **모두콘 2024** <span>2024.12.15</span>
 
-주관: [모두의연구소](https://modulabs.co.kr)
-장소: 양재aT센터
+주관: [모두의연구소](https://modulabs.co.kr)  
+장소: 양재aT센터  
 주제: 페어프로그래밍으로 실시간 데이터 복제 오픈소스 기여하기  
-YouTube: [https://youtu.be/YYSYG5uVVK8](https://youtu.be/YYSYG5uVVK8)  
+YouTube: [https://youtu.be/YYSYG5uVVK8](https://youtu.be/YYSYG5uVVK8)    
 <br>  
 <br>
 

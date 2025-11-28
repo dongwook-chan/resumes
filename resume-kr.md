@@ -1,5 +1,5 @@
 ---
-title: "장동욱의 이력서"
+title: "Dongwook Chang's Resume (Korean)"
 layout: resume
 ---
 
