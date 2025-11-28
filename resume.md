@@ -141,6 +141,12 @@ Selected as a global leader-level developer (Frontier) in a government-led open 
 <br>
 
 ## Open Source
+### **[bitcoin](https://github.com/bitcoin/bitcoin)** <span>2025.08</span>
+
+**Bitcoin Core Contributor**
+    - Co-authored a commit to add v3 transaction support to `createrawtransaction`, `createpsbt`, `send`, `sendall`, and `walletcreatefundedpsbt` RPCs. [<font size="2">[PR]</font>](https://github.com/bitcoin/bitcoin/pull/32896)
+<br>
+
 ### **[MysqlCdc](https://github.com/rusuly/MySqlCdc)** <span>2023.12&ndash;</span>
 **C# client for the MySQL replication protocol**  
     - Implemented Rand_event [<font size="2">[PR]</font>](https://github.com/rusuly/MySqlCdc/pull/32)  
