@@ -99,19 +99,26 @@ DB 실시간 복제 솔루션 [LOMIO](https://elseif.kakao.com/2020/session/99) 
 
 
 ## 강연/발표
+### **모두콘 2024** <span>2024.12.15</span>
 
-### **오픈소스 컨트리뷰션 아카데미 발대식 (예정)** <span>2024.07.13</span>
+주관: [모두의연구소](https://modulabs.co.kr)
+장소: 양재aT센터
+주제: 페어프로그래밍으로 실시간 데이터 복제 오픈소스 기여하기
+YouTube: https://youtu.be/YYSYG5uVVK8
+
+### **오픈소스 컨트리뷰션 아카데미 발대식** <span>2024.07.13</span>
 
 주관: 정보통신진흥원  
 장소: 한국과학기술회관 국제회의장  
-주제: OSSCA 100% 활용하기  
+주제: OSSCA 100% 활용하기
 <br>  
 
-### **모두의연구소 LAB 활동 공유회 (예정)** <span>2024.06.28</span>
+### **모두의연구소 LAB 활동 공유회** <span>2024.06.28</span>
 
 주관: [모두의연구소](https://modulabs.co.kr)  
 장소: 모두의연구소 강남 캠퍼스  
-주제: Debezium 컨트리뷰터로 거듭나기  
+주제: Debezium 컨트리뷰터로 거듭나기
+YouTube: https://youtu.be/tCPY3uuRloE
 <br>  
 
 ### **[8th PseudoCon](https://padlet.com/seriousran/8th-pseudocon-jd610oafwcbk8evg)** <span>2024.06.15</span>
@@ -119,7 +126,7 @@ DB 실시간 복제 솔루션 [LOMIO](https://elseif.kakao.com/2020/session/99) 
 주관: [가짜연구소](https://pseudolab.github.io/about)  
 장소: Microsoft Korea  
 주제: 오픈소스 기여의 베네핏   
-YouTube: 업로드 예정  
+YouTube: https://youtu.be/5sOqtW2d0r4
 <br>  
 
 ### **고려대학교 컴퓨터프로그래밍2 특강** <span>2024.05.02</span>
